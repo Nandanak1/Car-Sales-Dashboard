@@ -11,6 +11,6 @@
   ✅ Monitors year-over-year growth to measure strategic progress.<br>
   ✅ Simplifies complex data into dynamic, interactive visuals for faster decision-making.<br><br>
 
-  This Dashboard provides clear visibility into Sales perfomance, helps to identify which produts and regionsn are performing well, and support faster decision-making.
+  This Dashboard provides clear visibility into Sales perfomance, helps to identify which products and regions are performing well, and support faster decision-making.
 
 </div>
